@@ -11,8 +11,8 @@
 - Shift + Control + ↑か↓: 複数行選択  
 
 ### Google
-- Command + y: ネット閲覧履歴  
-- Shift + command + r: スーパーリロード   
+- Command + y: ネット閲覧個別履歴  
+- Command + Shift + del: 閲覧履歴一括削除ページ  
 
 ### VSCode
 - 選択+ Command + d: 同じ奴を同時編集  
