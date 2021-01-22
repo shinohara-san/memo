@@ -27,4 +27,4 @@
 - Command + shift + c: 名前コピー  
 
 ### Github 403 エラー
-- git remote set-url origin https://<un>@github.com/<un>/<rp>.git
+- git remote set-url origin https://名前@github.com/名前/レポジトリ.git
