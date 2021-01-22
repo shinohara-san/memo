@@ -25,3 +25,6 @@
 
 ### SFSymbol
 - Command + shift + c: 名前コピー  
+
+### Github 403 エラー
+- git remote set-url origin https://<un>@github.com/<un>/<rp>.git
