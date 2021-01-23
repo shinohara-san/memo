@@ -27,7 +27,7 @@
 - Command + shift + c: 名前コピー  
 
 ### Github 403 エラー
-- git remote set-url origin https://名前@github.com/名前/レポジトリ.git
+- git remote set-url origin https://shinohara-san@github.com/shinohara-san/<レポジトリ名>.git
 
 ### Slack
 - Command + Shift + [ or ]: ワークスペース移動  
