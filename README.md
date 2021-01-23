@@ -28,3 +28,8 @@
 
 ### Github 403 エラー
 - git remote set-url origin https://名前@github.com/名前/レポジトリ.git
+
+### Slack
+- Command + Shift + [ or ]: ワークスペース移動  
+- Option + 上 or 下: チャンネル移動
+- Command + 数字: ワークスペースジャンプ
