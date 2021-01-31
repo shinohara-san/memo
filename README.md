@@ -18,6 +18,7 @@
 - 選択+ Command + d: 同じ奴を同時編集  
 - Command + Opt + I: 検証ツール  
 - Shift + Command + L:  同じの一括選択&編集  
+- Shift + tab: 左にずらす
 
 ### Mac
 - Command + tab: 動いているアプリ一覧表示  
