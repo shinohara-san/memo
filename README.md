@@ -8,7 +8,8 @@
 - Command + Shift + k: Clean  
 - Option + 方向: 複数行選択  
 - Command + [ : 左へ  
-- Shift + Control + ↑か↓: 複数行選択  
+- Shift + Control + ↑か↓: 複数行選択
+- Command + 0: 左の出し入れ
 
 ### Google
 - Command + y: ネット閲覧個別履歴  
