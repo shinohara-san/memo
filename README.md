@@ -10,6 +10,7 @@
 - Command + [ : 左へ  
 - Shift + Control + ↑か↓: 複数行選択
 - Command + 0: 左の出し入れ
+- Command + Shift + E: 同じ変数同時編集
 
 ### Google
 - Command + y: ネット閲覧個別履歴  
