@@ -10,7 +10,7 @@
 - Command + [ : 左へ  
 - Shift + Control + ↑か↓: 複数行選択
 - Command + 0: 左の出し入れ
-- Command + Shift + E: 同じ変数同時編集
+- Command + Control + E: 同じ変数同時編集
 - Command + Shift + Y: 下のところ出し入れ
 
 ### Google
