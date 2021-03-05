@@ -13,6 +13,7 @@
 - Command + Control + E: 同じ変数同時編集
 - Command + Shift + Y: 下のところ出し入れ
 - option押しながらドラッグ: 複数行同時編集
+- Commad ＋ 関数クリック + Fold： 関数の折り曲げ
 
 ### Google
 - Command + y: ネット閲覧個別履歴  
