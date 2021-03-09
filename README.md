@@ -14,7 +14,6 @@
 - Command + Shift + Y: 下のところ出し入れ
 - option押しながらドラッグ: 複数行同時編集
 - Command ＋ 関数クリック + Fold： 関数の折り曲げ
-- Command + Shift + o: ファイル検索
 - Option押しながらファイル選択: 今の表示ファイルのを右側にそいつを開く
 
 ### Google
